@@ -5,7 +5,7 @@
 [最新版をダウンロード](https://github.com/Moyomon/JournalTracker/releases/latest/download/JournalTracker.zip)  
 ※初回起動時のみファイルを展開するため時間がかかります。
 
-解説動画：https://www.youtube.com/watch?v=JCilYsrOBAQ
+解説動画：https://www.youtube.com/watch?v=NHff-LSXJjM
 <img width="1122" height="615" alt="Image" src="https://github.com/user-attachments/assets/0dab4ba2-7337-4727-9735-e5198e2824f9" />
 
 ## ✨ 主な機能
