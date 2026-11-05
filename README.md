@@ -2,7 +2,6 @@
 
 ゲーム画面の指定した範囲を見張り、新しいセリフが出るたびに自動で日本語に翻訳するツールです。
 
-## ダウンロード
 [最新版をダウンロード](https://github.com/Moyomon/JournalTracker/releases/latest/download/JournalTracker.zip)  
 ※初回起動時のみファイルを展開するため時間がかかります。
 
