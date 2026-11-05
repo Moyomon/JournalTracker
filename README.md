@@ -6,7 +6,7 @@
 ※初回起動時のみファイルを展開するため時間がかかります。
 
 解説動画：https://www.youtube.com/watch?v=NHff-LSXJjM
-<img width="1122" height="615" alt="Image" src="https://github.com/user-attachments/assets/0dab4ba2-7337-4727-9735-e5198e2824f9" />
+<img width="1920" height="860" alt="rdr2" src="https://github.com/user-attachments/assets/169b43ee-ed59-4c3e-bdff-30d8a5f15b14" />
 
 ## ✨ 主な機能
 
