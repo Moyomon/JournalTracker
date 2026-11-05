@@ -1,4 +1,4 @@
-# Journal Tracker [BETA] - ゲーム翻訳ツール
+# Journal Tracker [BETA] - ゲーム翻訳
 
 ゲーム画面の指定した範囲を見張り、新しいセリフが出るたびに自動で日本語に翻訳するツールです。
 
